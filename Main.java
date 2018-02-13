@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {//The BEST comment ever
+public class Main { //comment for lab 5
 	
     public static void main(String args[]) {
         Scanner scnr = new Scanner(System.in);
@@ -56,5 +56,4 @@ public class Main {//The BEST comment ever
         }
         return userResult;
     }
-}# COP3502-Lab5
-# Lab5
+}
